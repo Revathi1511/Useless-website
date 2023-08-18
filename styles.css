@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 30px;
+}
+
+.activity {
+  margin-top: 50px;
+}
+
+#spinner-container {
+  position: relative;
+  display: inline-block;
+}
+
+#spinner-image {
+  width: 200px;
+  height: 200px;
+}
+
+#spin-button,
+#clap-button,
+#fortune-button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+#fortune-result {
+  font-weight: bold;
+  margin-top: 20px;
+}
